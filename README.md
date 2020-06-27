@@ -10,3 +10,4 @@ Future Ideas:
 - create a useful quiz from a Wikipedia article.
 - set site-specific css (hide sidebar in stackoverflow)
 - custom functions with highlighted text (read aloud, add question, add reference)
+- set rewards and actions, like bing, but something useful for yself, like an ongoing RPG, Thy Dungeonman
